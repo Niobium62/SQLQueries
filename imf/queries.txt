@@ -1,0 +1,5 @@
+1. Find me all countries with an inflation global rank <30 and an economic growth rank =< 30. X
+2. Find the average budget balance forecast of all countries with an unemployment rate forecast >= 10.
+3. Find the average investment forecast of all countries that have an current account forecast <= 0. Group by their economic growth forecast, by 1s
+4  Find the countries with available data from all six tables starting no less than 1990
+5. Find the countries in unemployment rate table that have missing data in budget balance forecast table
