@@ -1,0 +1,4 @@
+1. Select countries from vaccine metadata that are not present in vaccine data
+2. Select vaccines that are used by at least 5 countries
+3. Select countries with cumulative deaths < 1000
+4. Find the sum of the number of booster shots per WHO region 
