@@ -1,0 +1,3 @@
+1. Find the average GDP of all country regions
+2. Find the average GDP of all countries up to 1995
+3. Find the countries with an average GDP > 500 000 000
